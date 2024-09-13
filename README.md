@@ -1,10 +1,10 @@
 👋 Hola! Soy Gerardo Tejeda (@GerardoT03)
-Soy un desarrollador junior con experiencia en backend, enfocado en mejorar mis habilidades con Django y AWS. Me apasiona resolver problemas con soluciones eficientes y creativas.
+Soy un desarrollador junior con experiencia en backend, enfocado en mejorar mis habilidades con Django y Python. Me apasiona resolver problemas con soluciones eficientes y creativas.
 
 💼 Habilidades y herramientas:
 Lenguajes: Python, JavaScript
 Frameworks: Django
-Otras herramientas: Git, JSON, HTML, CSS
+Otras herramientas: Git, HTML, CSS
 
 🌱 Actualmente aprendiendo:
 Arquitectura en la nube con AWS
