@@ -18,7 +18,7 @@ Colaborar en proyectos de desarrollo backend y seguir aprendiendo en equipo. Me 
 gerardotejeda944@gmail.com
 
 ⚡ Dato curioso:
-Soy muy curioso sobre cómo optimizar aplicaciones y mejorar la experiencia del usuario con soluciones eficientes.
+Me gustan los videojuegos
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
