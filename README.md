@@ -3,7 +3,9 @@ Soy un desarrollador junior con experiencia en backend, enfocado en mejorar mis 
 
 💼 Habilidades y herramientas:
 Lenguajes: Python, JavaScript
+
 Frameworks: Django
+
 Otras herramientas: Git, HTML, CSS
 
 🌱 Actualmente aprendiendo:
