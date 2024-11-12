@@ -1,5 +1,5 @@
 👋 Hola! Soy Gerardo Tejeda (@GerardoT03)
-Soy un desarrollador junior con experiencia en backend, enfocado en mejorar mis habilidades con Django y Python. Me apasiona resolver problemas con soluciones eficientes y creativas.
+Soy un desarrollador junior con experiencia en backend, enfocado en mejorar mis habilidades con Python y Java. Me apasiona resolver problemas con soluciones eficientes y creativas.
 
 💼 Habilidades y herramientas:
 Lenguajes: Python, Java
@@ -14,7 +14,7 @@ Mejores prácticas en JavaScript
 Manejo avanzado de JSON y APIs
 
 🎯 Busco:
-Colaborar en proyectos de desarrollo backend y seguir aprendiendo en equipo. Me encanta la tecnología y siempre estoy dispuesto a enfrentar nuevos desafíos.
+Colaborar en proyectos de desarrollo backend y seguir aprendiendo. Me gusta mucho la tecnología y siempre estoy dispuesto a enfrentar nuevos desafíos.
 
 📬 Contacto:
 gerardotejeda944@gmail.com
